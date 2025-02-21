@@ -54,14 +54,14 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
+    "Are you sure?🫣",
+    "Really sure??🥲",
+    "Ek baar soch toh loh i am your bandar🐒?",
+    "Niki please...😔",
     "Just think about it!",
-    "If you say no, I will be really sad...",
+    "If you say no, I will drink harpic😭...",
     "I will be very sad...",
-    "I will be very very very sad...",
+    "I will be very very very sad..🥹🥹🥹🥹.",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
